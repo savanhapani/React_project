@@ -1,0 +1,124 @@
+.menu-ul{
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    margin-right: 60px;
+}
+.menu-ul li{
+    display: inline-block; 
+    margin-left: 0px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-right: 10px;
+    padding: 7px;
+}
+
+.decoration{
+    text-decoration: none;
+   font-size: 30px;
+    font-weight:650;
+    color: #1A87B3;
+}
+.decoration:hover{
+    text-decoration: none;
+   font-size: 35px;
+    font-weight:650;
+    color: white;
+}
+.logo
+{
+    width : 100px;
+    height: 100px;
+    margin-left:50px;
+}
+.main-div
+{
+    background-color: orange;
+}
+.input
+{
+    display: inline;
+    width: 400px;
+    height: 40px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+#abc
+{
+    color:white; 
+    font-size: 30px; 
+    background-color: #1A87B3;
+    padding-top:4px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-left: 6px;   
+}
+.footer-logo
+{
+    height: 40px;
+    width: 40px;
+    margin-left: 23px;
+}
+.main-div-footer
+{
+    background-color: lightgrey;
+    height: 100%;
+    width: 98.1%;
+    padding:15px;
+}
+
+/* neel */
+.main-div-center
+{
+  font-family:"Verdana";
+  color:white;
+  font-size: 1.4rem;
+  background-image: url(./simple-background.jpg);
+    background-size: cover;
+    padding: 30px;
+  
+}
+
+/*header
+{
+  background-color: white;
+  color:blue;
+  margin-left: -26px;
+  margin-right: 10px;
+  margin-top:-10px;
+  margin-bottom: 20px;
+
+}*/
+.title_mar
+{
+    margin: 0px;
+}
+span
+{
+  display: inline-block;
+}
+
+/*footer
+{
+  float: right;
+  background-color: white;
+  color:blue;
+  margin-left: -26px;
+  margin-right: 10px;
+  margin-top:-10px;
+  margin-bottom: 20px;
+
+}*/
+/* kalal*/
+.card-div
+{
+    display: flex;
+    margin:10px;
+    perspective: 700;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:  space-around;
+}
